@@ -1,4 +1,4 @@
-# Ode to Python Learning
+Ode to Python Learning
 
 In digital realms where logic plays,
 A language bright in many ways.
